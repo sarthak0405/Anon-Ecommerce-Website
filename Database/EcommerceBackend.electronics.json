@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6655f4ab5d5862be4e311bed"
+  },
+  "name": "Desktop",
+  "price": 50000,
+  "Category": "Electronics",
+  "img": "https://i5.walmartimages.com/asr/299c9aef-fd6d-426d-bcbc-f1945574730a.7933d342c6d74b4bb3f11a6cf10c4115.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ab5d5862be4e311bee"
+  },
+  "name": "Desktop",
+  "price": 60000,
+  "Category": "Electronics",
+  "img": "https://www.bhphotovideo.com/images/images2500x2500/Acer_PV_SE002_007_Aspire_AM3400_B2082_Desktop_Computer_736195.jpg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ab5d5862be4e311bef"
+  },
+  "name": "Desktop",
+  "price": 40000,
+  "Category": "Electronics",
+  "img": "https://www.freepngimg.com/thumb/technology/51761-3-desktop-computer-hd-image-free-png.png"
+},
+{
+  "_id": {
+    "$oid": "6655f4ab5d5862be4e311bf0"
+  },
+  "name": "Desktop",
+  "price": 45000,
+  "Category": "Electronics",
+  "img": "https://pngimg.com/uploads/computer_pc/computer_pc_PNG7719.png"
+},
+{
+  "_id": {
+    "$oid": "6655f4ab5d5862be4e311bf1"
+  },
+  "name": "Desktop",
+  "price": 90000,
+  "Category": "Electronics",
+  "img": "http://www.thetoptensite.com/images/computer-desktop-apple-i-mac.jpg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ab5d5862be4e311bf2"
+  },
+  "name": "Desktop",
+  "price": 70000,
+  "Category": "Electronics",
+  "img": "https://i5.walmartimages.com/asr/987cc601-d259-4d18-aefd-3a3d3b8180e0_1.385336a3d705bcefab7903b64f1a1032.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ee5d5862be4e311bf3"
+  },
+  "name": "Samsung Galexy A34",
+  "price": 30000,
+  "Category": "Electronics",
+  "img": "https://www.vividonline.com.my/image/vividgroup/image/cache/data/all_product_images/product-1414/EC%20SKU%20-%20Galaxy%20A34-06-2250x2250.jpg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ee5d5862be4e311bf4"
+  },
+  "name": "Realme C56",
+  "price": 15000,
+  "Category": "Electronics",
+  "img": "https://paidfreedroid.com/wp-content/uploads/2021/04/Realme-8-5G-1-1024x1024.png"
+},
+{
+  "_id": {
+    "$oid": "6655f4ee5d5862be4e311bf5"
+  },
+  "name": "Moto E",
+  "price": 25000,
+  "Category": "Electronics",
+  "img": "https://www.tmonews.com/wp-content/uploads/2020/06/moto-e-official.jpg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ee5d5862be4e311bf6"
+  },
+  "name": "Iphone 15",
+  "price": 95000,
+  "Category": "Electronics",
+  "img": "https://specificationsplus.com/wp-content/uploads/2022/05/iPhone-15-Pro-Max-Specifications-Plus.jpg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ee5d5862be4e311bf7"
+  },
+  "name": "Nokia",
+  "price": 15000,
+  "Category": "Electronics",
+  "img": "https://images.ctfassets.net/wcfotm6rrl7u/3jcytng7ls5Vsu7Esn00zW/9a907854c6af35752ef7c82a5098b2bf/nokia_6_2-phones-lander-mobile.jpg"
+},
+{
+  "_id": {
+    "$oid": "6655f4ee5d5862be4e311bf8"
+  },
+  "name": "One Plus",
+  "price": 50000,
+  "Category": "Electronics",
+  "img": "https://www.mymobileindia.com/wp-content/uploads/2022/05/Oneplus-10-Pro-5G.jpg"
+}]

@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6655f5d45d5862be4e311c11"
+  },
+  "name": "Victorie's secret",
+  "price": 400,
+  "img": "https://tse4.mm.bing.net/th?id=OIP.JaqzqJg1p99t481I8jRjzwHaHZ&pid=Api&P=0&h=180",
+  "Category": "perfume"
+},
+{
+  "_id": {
+    "$oid": "6655f5d45d5862be4e311c12"
+  },
+  "name": "poison",
+  "price": 800,
+  "img": "https://tse2.mm.bing.net/th?id=OIP.9A1gLkVEc-_bzyLhdHTPHwHaHa&pid=Api&P=0&h=180",
+  "Category": "perfume "
+},
+{
+  "_id": {
+    "$oid": "6655f5d45d5862be4e311c13"
+  },
+  "name": "Miss Dior",
+  "price": 520,
+  "img": "https://fimgs.net/photogram/p1200/do/nr/FVC06NrYUaOB66gA.jpg",
+  "Category": "perfume "
+},
+{
+  "_id": {
+    "$oid": "6655f5d45d5862be4e311c14"
+  },
+  "name": "Elie Saab",
+  "price": 320,
+  "img": "http://www.imbringingbloggingback.com/wp-content/uploads/2016/10/elie-saab-perfume-for-women-2017.jpg",
+  "Category": "perfume "
+},
+{
+  "_id": {
+    "$oid": "6655f5d45d5862be4e311c15"
+  },
+  "name": "Bvlgare",
+  "price": 780,
+  "img": "https://brandedfragrance.com/wp-content/uploads/2021/06/a1EPww-1024x1024.jpg",
+  "Category": "perfume "
+},
+{
+  "_id": {
+    "$oid": "6655f5d45d5862be4e311c16"
+  },
+  "name": "coco",
+  "price": 1100,
+  "img": "http://cdn.shopify.com/s/files/1/0069/4471/8937/products/Chanel-Coco-Mademoiselle-Intense-EDP-W-50ml-2_de2881cf-4ddb-4a2d-a65a-12b75ff4ec7f_1200x1200.jpg?v=1573190789",
+  "Category": "perfume "
+}]

@@ -1,0 +1,626 @@
+{/* Product Minimal  */}
+            <div classNameNameName="product-box">
+
+                <div classNameName="product-minimal">
+
+                    <div classNameName="product-showcase">
+
+                        <h2 classNameName="title">New Arrivals</h2>
+
+                        <div classNameName="showcase-wrapper has-scrollbar">
+
+                            <div classNameName="showcase-container">
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={c1} alt="relaxed short full sleeve t-shirt" width="70"
+                                            classNameName="showcase-img" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Relaxed Short full Sleeve T-Shirt</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Clothes</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$45.00</p>
+                                            <del>$12.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={c2} alt="girls pink embro design top" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Girls pnk Embro design Top</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Clothes</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$61.00</p>
+                                            <del>$9.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={c3} alt="black floral wrap midi skirt" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Black Floral Wrap Midi Skirt</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Clothes</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$76.00</p>
+                                            <del>$25.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={s1} alt="pure garment dyed cotton shirt" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Pure Garment Dyed Cotton Shirt</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Mens Fashion</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$68.00</p>
+                                            <del>$31.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div classNameName="showcase-container">
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={j5} alt="men yarn fleece full-zip jacket" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">MEN Yarn Fleece Full-Zip Jacket</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Winter wear</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$61.00</p>
+                                            <del>$11.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={j1} alt="mens winter leathers jackets" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Mens Winter Leathers Jackets</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Winter wear</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$32.00</p>
+                                            <del>$20.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={j3} alt="mens winter leathers jackets" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Mens Winter Leathers Jackets</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Jackets</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$50.00</p>
+                                            <del>$25.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={sh1} alt="better basics french terry sweatshorts" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Better Basics French Terry Sweatshorts</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Shorts</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$20.00</p>
+                                            <del>$10.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div classNameName="product-showcase">
+
+                        <h2 classNameName="title">Trending</h2>
+
+                        <div classNameName="showcase-wrapper  has-scrollbar">
+
+                            <div classNameName="showcase-container">
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={sp1} alt="running & trekking shoes - white" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Running & Trekking Shoes - White</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Sports</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$49.00</p>
+                                            <del>$15.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={sp2} alt="trekking & running shoes - black" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Trekking & Running Shoes - black</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Sports</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$78.00</p>
+                                            <del>$36.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={pw1} alt="womens party wear shoes" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Womens Party Wear Shoes</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Party wear</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$94.00</p>
+                                            <del>$42.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={sp3} alt="sports claw women's shoes" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Sports Claw Women's Shoes</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Sports</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$54.00</p>
+                                            <del>$65.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div classNameName="showcase-container">
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={sp6} alt="air tekking shoes - white" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Air Trekking Shoes - white</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Sports</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$52.00</p>
+                                            <del>$55.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={shoe3} alt="Boot With Suede Detail" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Boot With Suede Detail</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">boots</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$20.00</p>
+                                            <del>$30.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={shoe1} alt="men's leather formal wear shoes" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Men's Leather Formal Wear shoes</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">formal</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$56.00</p>
+                                            <del>$78.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={shoe2} alt="casual men's brown shoes" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Casual Men's Brown shoes</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Casual</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$50.00</p>
+                                            <del>$55.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div classNameName="product-showcase">
+
+                        <h2 classNameName="title">Top Rated</h2>
+
+                        <div classNameName="showcase-wrapper  has-scrollbar">
+
+                            <div classNameName="showcase-container">
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={w3} alt="pocket watch leather pouch" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Pocket Watch Leather Pouch</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Watches</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$50.00</p>
+                                            <del>$34.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={jw3} alt="silver deer heart necklace" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Silver Deer Heart Necklace</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Jewellery</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$84.00</p>
+                                            <del>$30.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={perfume} alt="titan 100 ml womens perfume" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Titan 100 Ml Womens Perfume</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Perfume</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$42.00</p>
+                                            <del>$10.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={belt} alt="men's leather reversible belt" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Men's Leather Reversible Belt</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Belt</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$24.00</p>
+                                            <del>$10.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <div classNameName="showcase-container">
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={jw2} alt="platinum zircon classNameNameic ring" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">platinum Zircon classNameNameic Ring</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">jewellery</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$62.00</p>
+                                            <del>$65.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={w1} alt="smart watche vital plus" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Smart watche Vital Plus</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">Watches</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$56.00</p>
+                                            <del>$78.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={shampoo} alt="shampoo conditioner packs" classNameName="showcase-img" width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">shampoo conditioner packs</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">cosmetics</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$20.00</p>
+                                            <del>$30.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                <div classNameName="showcase">
+
+                                    <a href="/" classNameName="showcase-img-box">
+                                        <img src={jw1} alt="rose gold peacock earrings" classNameName="showcase-img"
+                                            width="70" />
+                                    </a>
+
+                                    <div classNameName="showcase-content">
+
+                                        <a href="/">
+                                            <h4 classNameName="showcase-title">Rose Gold Peacock Earrings</h4>
+                                        </a>
+
+                                        <a href="/" classNameName="showcase-category">jewellery</a>
+
+                                        <div classNameName="price-box">
+                                            <p classNameName="price">$20.00</p>
+                                            <del>$30.00</del>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>

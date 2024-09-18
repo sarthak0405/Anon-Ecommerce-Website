@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6653151b25370c3e05e46061"
+  },
+  "name": "Formal Dress",
+  "price": 2000,
+  "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/25120374/2023/9/27/62802873-6dee-470c-a2f5-8ab3538030b01695805850846-Chemistry-Women-Shirts-2591695805850232-1.jpg",
+  "Category": "Women"
+},
+{
+  "_id": {
+    "$oid": "6653151b25370c3e05e46062"
+  },
+  "name": "Formal Dress",
+  "price": 560,
+  "img": "https://i.pinimg.com/236x/e1/5c/50/e15c50c1757aa45295f5635ec4969f57.jpg",
+  "Category": "Women"
+},
+{
+  "_id": {
+    "$oid": "6653151b25370c3e05e46063"
+  },
+  "name": "Formal Dress",
+  "price": 630,
+  "img": "https://d1fufvy4xao6k9.cloudfront.net/images/blog/posts/2021/06/278a0084.jpg",
+  "Category": "Women"
+},
+{
+  "_id": {
+    "$oid": "6653151b25370c3e05e46064"
+  },
+  "name": "Formal Dress",
+  "price": 420,
+  "img": "https://i.etsystatic.com/7799304/r/il/a945af/1501300791/il_570xN.1501300791_88yl.jpg",
+  "Category": "Women"
+}]

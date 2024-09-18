@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "665355e6b4f1d942f9d6cd8e"
+  },
+  "name": "Long Sleeve Men's Shirts",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20231205/G3z0/656ed440ddf7791519b1e6e2/-473Wx593H-461119105-blue-MODEL.jpg",
+  "Category": "men",
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6653579eb4f1d942f9d6cd9b"
+  },
+  "name": "Long Sleeve Men's Shirts",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20231205/G3z0/656ed440ddf7791519b1e6e2/-473Wx593H-461119105-blue-MODEL.jpg",
+  "Category": "men",
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654186aa54edbcc213e6118"
+  },
+  "name": "Formal Dress",
+  "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/25120374/2023/9/27/62802873-6dee-470c-a2f5-8ab3538030b01695805850846-Chemistry-Women-Shirts-2591695805850232-1.jpg",
+  "Category": "Women",
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654186fa54edbcc213e611d"
+  },
+  "name": "Park Avenue Men's Plain Slim Fit Formal Shirt",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20230620/TtZD/649201a7d55b7d0c637e4e1c/-288Wx360H-463235957-blue-MODEL.jpg",
+  "Category": "men",
+  "price": 650,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66541a84bda98bbc0c61d77a"
+  },
+  "name": "Park Avenue Men's Plain Slim Fit Formal Shirt",
+  "img": "https://img0.junaroad.com/uiproducts/19410012/zoom_1-1677344181.jpg",
+  "Category": "men",
+  "price": 330,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66541a87bda98bbc0c61d77f"
+  },
+  "name": "Long Sleeve Men's Shirts",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20231205/G3z0/656ed440ddf7791519b1e6e2/-473Wx593H-461119105-blue-MODEL.jpg",
+  "Category": "men",
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654501a8caf3323293258ba"
+  },
+  "name": "Park Avenue Men's Plain Slim Fit Formal Shirt",
+  "img": "https://img0.junaroad.com/uiproducts/19410012/zoom_1-1677344181.jpg",
+  "Category": "men",
+  "price": 330,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665450248caf3323293258bf"
+  },
+  "name": "Long Sleeve Men's Shirts",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20231205/G3z0/656ed440ddf7791519b1e6e2/-473Wx593H-461119105-blue-MODEL.jpg",
+  "Category": "men",
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66558e685bdca82b4397c0f3"
+  },
+  "name": "Long Sleeve Men's Shirts",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20231205/G3z0/656ed440ddf7791519b1e6e2/-473Wx593H-461119105-blue-MODEL.jpg",
+  "Category": "men",
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66558e745bdca82b4397c0f8"
+  },
+  "name": "Long Sleeve Summer Shirts Men",
+  "img": "https://rukminim2.flixcart.com/image/850/1000/knunf680/shirt/p/k/o/xxl-c442-olive-dennis-lingo-original-imag2fp7s6dytdxf.jpeg?q=20&crop=false",
+  "Category": "men",
+  "price": 450,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66559fbec92c18e40353873b"
+  },
+  "name": "Long Sleeve Men's Shirts",
+  "img": "https://assets.ajio.com/medias/sys_master/root/20231205/G3z0/656ed440ddf7791519b1e6e2/-473Wx593H-461119105-blue-MODEL.jpg",
+  "Category": "men",
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655a2ebc92c18e403539a56"
+  },
+  "name": "Long Sleeve Summer Shirts Men",
+  "img": "https://rukminim2.flixcart.com/image/850/1000/knunf680/shirt/p/k/o/xxl-c442-olive-dennis-lingo-original-imag2fp7s6dytdxf.jpeg?q=20&crop=false",
+  "Category": "men",
+  "price": 450,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655f1207a99f597a3e3dcb1"
+  },
+  "name": "Arrow French Placket Printed Shirt",
+  "img": "https://www.beyours.in/cdn/shop/files/elite-white-shirt-3.jpg?v=1713157649&width=1200",
+  "Category": "men",
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6655f99f7a99f597a3e3dcf9"
+  },
+  "name": "Excalibur Cotton Blend Red Checks Formal Shirt",
+  "img": "https://img0.junaroad.com/uiproducts/19126302/zoom_0-1673529652.jpg",
+  "Category": "men",
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656b5618b8f6a3087967e0b"
+  },
+  "name": "Toys",
+  "img": "https://i5.walmartimages.com/asr/48acd3fd-8204-4426-925d-638804b20852.f251ce2716d77382c2df626de632792d.jpeg",
+  "Category": "Kids",
+  "price": 490,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656bc058b8f6a30879687d6"
+  },
+  "name": "Girls Wear",
+  "img": "https://tse3.mm.bing.net/th?id=OIP.Dv339g5hKF_0GGiuZnbvHgHaHa&pid=Api&P=0&h=180",
+  "Category": "Kids",
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656c8bec2f0522fa95f4195"
+  },
+  "name": "Full Sleves Men Shirt",
+  "img": "https://rukminim2.flixcart.com/image/850/1000/knunf680/shirt/p/k/o/xxl-c442-olive-dennis-lingo-original-imag2fp7s6dytdxf.jpeg?q=20&crop=false",
+  "Category": "men",
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656c912c2f0522fa95f419a"
+  },
+  "name": "Formal Dress",
+  "img": "https://i.pinimg.com/236x/e1/5c/50/e15c50c1757aa45295f5635ec4969f57.jpg",
+  "Category": "Women",
+  "price": 560,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656cd07c2f0522fa95f41a7"
+  },
+  "name": "Full Sleves Men Shirt",
+  "img": "https://rukminim2.flixcart.com/image/850/1000/knunf680/shirt/p/k/o/xxl-c442-olive-dennis-lingo-original-imag2fp7s6dytdxf.jpeg?q=20&crop=false",
+  "Category": "men",
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656d105c2f0522fa95f4cc3"
+  },
+  "name": "Excalibur Cotton Blend Red Checks Formal Shirt",
+  "img": "https://img0.junaroad.com/uiproducts/19126302/zoom_0-1673529652.jpg",
+  "Category": "men",
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656d17fc2f0522fa95f4cee"
+  },
+  "name": "Desktop",
+  "img": "https://www.bhphotovideo.com/images/images2500x2500/Acer_PV_SE002_007_Aspire_AM3400_B2082_Desktop_Computer_736195.jpg",
+  "Category": "Electronics",
+  "price": 60000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656d2dec2f0522fa95f4d03"
+  },
+  "name": "Excalibur Cotton Blend Red Checks Formal Shirt",
+  "img": "https://img0.junaroad.com/uiproducts/19126302/zoom_0-1673529652.jpg",
+  "Category": "men",
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6656d3d1c2f0522fa95f4d0e"
+  },
+  "name": "Excalibur Cotton Blend Red Checks Formal Shirt",
+  "img": "https://img0.junaroad.com/uiproducts/19126302/zoom_0-1673529652.jpg",
+  "Category": "men",
+  "price": 400,
+  "__v": 0
+}]

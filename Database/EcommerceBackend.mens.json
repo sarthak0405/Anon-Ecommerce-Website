@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "664edae9619abcba772b1e2b"
+  },
+  "name": "Full Sleves Men Shirt",
+  "price": 900,
+  "img": "https://rukminim2.flixcart.com/image/850/1000/knunf680/shirt/p/k/o/xxl-c442-olive-dennis-lingo-original-imag2fp7s6dytdxf.jpeg?q=20&crop=false",
+  "Category": "men"
+},
+{
+  "_id": {
+    "$oid": "664edae9619abcba772b1e2c"
+  },
+  "name": "Excalibur Cotton Blend Red Checks Formal Shirt",
+  "price": 400,
+  "img": "https://img0.junaroad.com/uiproducts/19126302/zoom_0-1673529652.jpg",
+  "Category": "men"
+},
+{
+  "_id": {
+    "$oid": "664edae9619abcba772b1e2d"
+  },
+  "name": "Arrow French Placket Printed Shirt",
+  "price": 500,
+  "img": "https://www.beyours.in/cdn/shop/files/elite-white-shirt-3.jpg?v=1713157649&width=1200",
+  "Category": "men"
+},
+{
+  "_id": {
+    "$oid": "664edae9619abcba772b1e2e"
+  },
+  "name": "Park Avenue Men's Plain Slim Fit Formal Shirt",
+  "price": 650,
+  "img": "https://assets.ajio.com/medias/sys_master/root/20230620/TtZD/649201a7d55b7d0c637e4e1c/-288Wx360H-463235957-blue-MODEL.jpg",
+  "Category": "men"
+}]
